@@ -1,2 +1,2 @@
-# latihanGit
+# latihanJava
 latihan java
